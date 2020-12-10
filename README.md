@@ -1,8 +1,8 @@
 ## Compiler Construction Lab 2
 
 ### Group Members
-Maria Ogamba - 100060
-Tiffany Tirop - 099365
-Ian Odundo - 100446
-Nicholus Magak - 096993
+1) Maria Ogamba - 100060
+2) Tiffany Tirop - 099365
+3) Ian Odundo - 100446
+4) Nicholus Magak - 096993
 
